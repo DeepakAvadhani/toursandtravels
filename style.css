@@ -675,3 +675,8 @@ header .icons i{
     width:100%;
   }
 }
+
+.logo-image .logo{
+  font-size: medium;
+  color: #fff;
+}
